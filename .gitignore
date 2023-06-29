@@ -1,0 +1,9 @@
+__pycache__
+.pytest_cache
+Include
+Lib
+auth
+templates
+test_main.py
+client.py
+exceptions.py
