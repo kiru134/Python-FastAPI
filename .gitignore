@@ -2,7 +2,7 @@ __pycache__
 .pytest_cache
 Include
 Lib
-templates
+
 test_main.py
 client.py
-exceptions.py
+
